@@ -6,7 +6,8 @@ Realisé par
 - Thibaud SIMON
 - Yann REYNAUD 
 
-[Sujet](PROJET%20-%20GAN%20-%20OUHAOUADA_LACLAVERIE_SIMON_REYNAUD.pdf)
+- [Rapport](PROJET%20-%20GAN%20-%20OUHAOUADA_LACLAVERIE_SIMON_REYNAUD.pdf)
+- [Code](notebooks/TNI_GAN%20-%20as%20PDF%20.pdf)
 # Introduction 
 Quand un dataset n'a pas assez de données pour entrainer un modèle, il est possible d'entrainer un GAN, deux réseaux de neurones qui travaillent en concurrence pour génerer des images. D'un cotés le générateur qui va générer des images et le discriminateur qui va déterminer si l'image est une image réelle ou non. L'objectif est que le discriminateur se trompe 50 % du temps.
 
