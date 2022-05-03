@@ -5,7 +5,7 @@ Realisé par
 - Pierre LACLAVERIE
 - Thibaud SIMON
 - Yann REYNAUD 
-
+#  Ressources
 - [Rapport](PROJET%20-%20GAN%20-%20OUHAOUADA_LACLAVERIE_SIMON_REYNAUD.pdf)
 - [Code](notebooks/TNI_GAN%20-%20as%20PDF%20.pdf)
 # Introduction 
