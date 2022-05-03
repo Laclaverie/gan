@@ -5,7 +5,15 @@ Realisé par
 - Pierre LACLAVERIE
 - Thibaud SIMON
 - Yann REYNAUD 
-
+# Sommaire
+- [gan](#gan)
+- [Sommaire](#sommaire)
+- [Ressources utiles](#ressources-utiles)
+- [Introduction](#introduction)
+- [Dataset](#dataset)
+- [Méthodologie](#méthodologie)
+- [Résultats](#résultats)
+# Ressources utiles
 [Sujet](PROJET%20-%20GAN%20-%20OUHAOUADA_LACLAVERIE_SIMON_REYNAUD.pdf)
 [rapport](notebooks/TNI_GAN%20-%20as%20PDF%20.pdf)
 # Introduction 
